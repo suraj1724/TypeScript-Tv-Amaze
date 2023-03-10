@@ -1,0 +1,2 @@
+export const LOAD_MOVIES = 'LOAD_MOVIES'
+export const LOAD_SINGLE_MOVIE = "SINGLE_MOVIE"
